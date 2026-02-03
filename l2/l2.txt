@@ -1,0 +1,10 @@
+` `used fr multiline writing 
+
+object have their properties and behaviour
+
+this hamesa current object ko represent krta hai 
+
+by default we write code in non restricted mode
+
+arrow function ka apna this nhi hota hai 
+
